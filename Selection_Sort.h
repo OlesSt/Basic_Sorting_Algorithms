@@ -2,7 +2,7 @@
 #define SELECTION_SORT_H
 
 #include <iostream>
-#include <vector>
+#include <ctime>
 #include "Test_Array.h"
 
 namespace SelectionSort
