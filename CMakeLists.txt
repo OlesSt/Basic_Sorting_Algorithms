@@ -17,6 +17,8 @@ add_executable(Basic_Sorting_Algorithms
 
   selection_sort.h
   bubble_sort.h
+
+  test_array.h
 )
 target_link_libraries(Basic_Sorting_Algorithms Qt${QT_VERSION_MAJOR}::Core)
 
